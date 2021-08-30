@@ -1,4 +1,4 @@
-# 懒人脚本      
+# 懒人脚本           
 ## 概述
 - 脚本自动化(github workflow) 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
 
